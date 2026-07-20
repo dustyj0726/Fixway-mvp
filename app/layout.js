@@ -1,8 +1,8 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'FixScout | Find the Right Repair Shop',
-  description: 'Find and book repair shops for lawn equipment, small engines, ATVs, UTVs, golf carts and compact tractors.'
+  title: 'FixScout | Find Power Equipment Repair',
+  description: 'Find and book trusted repair shops for lawn equipment, ATVs, UTVs, golf carts, small tractors, and small engines.',
 };
 
 export default function RootLayout({ children }) {
