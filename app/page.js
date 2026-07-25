@@ -99,7 +99,7 @@ export default function Home() {
       const { error } = await supabase.from('Shops').insert([
         {
           shop_name: shopName,
-          Contact_name: contactName,
+          contact_name: contactName,
           email: shopEmail,
           phone: shopPhone,
           zip_code: shopZip,
