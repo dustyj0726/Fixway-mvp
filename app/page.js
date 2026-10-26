@@ -43,7 +43,7 @@ export default function Home() {
     <main>
       <nav className="nav">
         <a className="brand" href="#top">
-          <img src="/North%20Biloxi%20Small%20Engine%20Repair%20Logo.png" alt="North Biloxi Small Engine Repair" className="brandLogo" />
+          <img src="/North%20Biloxi%20Small%20Engine%20Repair%20Logo.png" alt=className="brandLogo" />
           North Biloxi Small Engine Repair
         </a>
         <div className="navlinks">
