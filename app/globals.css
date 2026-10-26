@@ -679,3 +679,70 @@ main {
   }
 
 }
+/* Fix mobile header layout */
+
+@media (max-width: 600px) {
+
+  .nav {
+
+    display: flex;
+
+    flex-wrap: nowrap;
+
+    align-items: center;
+
+    justify-content: space-between;
+
+    gap: 8px;
+
+    padding: 8px;
+
+  }
+
+  .brand {
+
+    flex: 0 1 auto;
+
+    min-width: 0;
+
+    font-size: 0;
+
+    text-decoration: none;
+
+  }
+
+  .brandLogo {
+
+    display: block;
+
+    width: 100px;
+
+    max-width: 100%;
+
+    height: auto;
+
+  }
+
+  .navlinks {
+
+    display: flex;
+
+    flex: 0 0 auto;
+
+    gap: 10px;
+
+  }
+
+  .navlinks a {
+
+    font-size: 13px;
+
+    line-height: 1.3;
+
+    text-align: center;
+
+    white-space: normal;
+
+  }
+
+}
