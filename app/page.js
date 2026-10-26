@@ -65,12 +65,7 @@ export default function Home() {
 
         </div>
 
-      </nav
-        <div className="navlinks">
-          <a href="#booking">Request Service</a>
-          <a href="tel:2289388811">Call Us</a>
-        </div>
-      </nav>
+      
 
       <section className="hero" id="top">
         <div className="eyebrow">MOBILE SMALL ENGINE REPAIR</div>
