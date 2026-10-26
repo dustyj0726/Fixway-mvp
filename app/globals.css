@@ -544,3 +544,10 @@ footer small {
     font-size: 34px;
   }
 }
+.brandLogo {
+  width: 180px;
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+  display: block;
+}
