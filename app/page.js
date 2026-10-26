@@ -64,7 +64,7 @@ export default function Home() {
           <a href="tel:2289388811">Call Us</a>
 
         </div>
-              </NAV>
+              </nav>
       
 
       <section className="hero" id="top">
