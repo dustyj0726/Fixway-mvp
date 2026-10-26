@@ -41,10 +41,7 @@ export default function Home() {
 
   return (
     <main>
-      <nav className="nav">
-        <a className="brand" href="#top">
-          <img src="/North%20Biloxi%20Small%20Engine%20Repair%20Logo.png" alt="North Biloxi Small Engine Repair" className="brandLogo" />
-          North Biloxi Small Engine Repair
+      
         </a>
         <div className="navlinks">
           <a href="#booking">Request Service</a>
