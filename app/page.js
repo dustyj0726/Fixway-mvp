@@ -43,7 +43,7 @@ export default function Home() {
     <main>
       <nav className="nav">
         <a className="brand" href="#top">
-          <span className="mark">N</span>
+          
           North Biloxi Small Engine Repair
         </a>
         <div className="navlinks">
